@@ -1,0 +1,29 @@
+# Django-specific
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# Virtual Environment
+.env
+comedorEnv/
+venv/
+env/
+
+# IDE-specific
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Testing and coverage reports
+.tox/
+.coverage
+htmlcov/
+
+# Miscellaneous
+*.bak
